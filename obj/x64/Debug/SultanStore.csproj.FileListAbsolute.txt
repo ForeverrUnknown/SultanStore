@@ -1,0 +1,118 @@
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\packages\SourceGear.sqlite3.3.50.4.5\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\SultanStore.exe.config
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\SultanStore.exe
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\SultanStore.pdb
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\SQLitePCLRaw.core.dll
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\System.Buffers.dll
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\System.Memory.dll
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\System.Buffers.xml
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\System.Memory.xml
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\SultanStore.csproj.AssemblyReference.cache
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\MainWindow.baml
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\WarehouseWindow.baml
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\MainWindow.g.cs
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\WarehouseWindow.g.cs
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\App.g.cs
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\SultanStore_Content.g.cs
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\SultanStore_MarkupCompile.cache
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\SultanStore.g.resources
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\SultanStore.Properties.Resources.resources
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\SultanStore.csproj.GenerateResource.cache
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\SultanStore.csproj.CoreCompileInputs.cache
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\SultanSt.6DCF3C89.Up2Date
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\SultanStore.exe
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\SultanStore.pdb
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\AddProductWindow.baml
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\AddProductWindow.g.cs
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\EditProductWindow.baml
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\EditProductWindow.g.cs
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\HistoryWindow.baml
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\LoginWindow.baml
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\SalesWindow.baml
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\HistoryWindow.g.cs
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\LoginWindow.g.cs
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\SalesWindow.g.cs
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\SuppliersWindow.baml
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\SuppliersWindow.g.cs
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\AddSupplierWindow.baml
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\AddSupplierWindow.g.cs
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\LiveCharts.dll
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\LiveCharts.Wpf.dll
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\LiveCharts.pdb
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\LiveCharts.xml
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\LiveCharts.Wpf.pdb
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\LiveCharts.Wpf.xml
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\OrderWindow.baml
+C:\Users\germa\source\repos\SultanStore\obj\x64\Debug\OrderWindow.g.cs
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\DocumentFormat.OpenXml.dll
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\DocumentFormat.OpenXml.xml
+C:\Users\germa\source\repos\SultanStore\bin\x64\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\packages\SourceGear.sqlite3.3.50.4.5\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\SultanStore.exe.config
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\SultanStore.exe
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\SultanStore.pdb
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\DocumentFormat.OpenXml.dll
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\LiveCharts.dll
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\LiveCharts.Wpf.dll
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\SQLitePCLRaw.core.dll
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\System.Buffers.dll
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\System.Memory.dll
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\DocumentFormat.OpenXml.xml
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\LiveCharts.pdb
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\LiveCharts.xml
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\LiveCharts.Wpf.pdb
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\LiveCharts.Wpf.xml
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\System.Buffers.xml
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\System.Memory.xml
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\germa\source\repos\Фулл папка\SultanStore\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\SultanStore.csproj.AssemblyReference.cache
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\AddProductWindow.baml
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\AddSupplierWindow.baml
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\EditProductWindow.baml
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\HistoryWindow.baml
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\LoginWindow.baml
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\MainWindow.baml
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\OrderWindow.baml
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\SalesWindow.baml
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\SuppliersWindow.baml
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\WarehouseWindow.baml
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\AddProductWindow.g.cs
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\AddSupplierWindow.g.cs
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\EditProductWindow.g.cs
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\HistoryWindow.g.cs
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\LoginWindow.g.cs
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\MainWindow.g.cs
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\OrderWindow.g.cs
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\SalesWindow.g.cs
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\SuppliersWindow.g.cs
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\WarehouseWindow.g.cs
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\App.g.cs
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\SultanStore_Content.g.cs
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\SultanStore_MarkupCompile.cache
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\SultanStore.g.resources
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\SultanStore.Properties.Resources.resources
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\SultanStore.csproj.GenerateResource.cache
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\SultanStore.csproj.CoreCompileInputs.cache
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\SultanSt.6DCF3C89.Up2Date
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\SultanStore.exe
+C:\Users\germa\source\repos\Фулл папка\SultanStore\obj\x64\Debug\SultanStore.pdb

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\germa\\source\\repos\\\u0424\u0443\u043B\u043B \u043F\u0430\u043F\u043A\u0430\\SultanStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7534A5-1742-4012-A6FB-BE2DD00D6875}|SultanStore.csproj|C:\\Users\\germa\\source\\repos\\\u0424\u0443\u043B\u043B \u043F\u0430\u043F\u043A\u0430\\SultanStore\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD7534A5-1742-4012-A6FB-BE2DD00D6875}|SultanStore.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\germa\\source\\repos\\\u0424\u0443\u043B\u043B \u043F\u0430\u043F\u043A\u0430\\SultanStore\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\germa\\source\\repos\\\u0424\u0443\u043B\u043B \u043F\u0430\u043F\u043A\u0430\\SultanStore\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-04T12:49:16.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+﻿<Window x:Class="SultanStore.AddProductWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Добавить товар"
+        Height="364"
+        Width="472"
+        WindowStartupLocation="CenterScreen"
+        Background="#1F1F1F">
+
+    <Window.Resources>
+
+        <!-- 🔥 Стиль TextBox -->
+        <Style TargetType="TextBox">
+
+            <!-- Цвет текста -->
+            <Setter Property="Foreground" Value="White"/>
+
+            <!-- Фон -->
+            <Setter Property="Background" Value="#1A1A1A"/>
+
+            <!-- Золотая рамка -->
+            <Setter Property="BorderBrush" Value="#D4AF37"/>
+
+            <!-- Толщина рамки -->
+            <Setter Property="BorderThickness" Value="1"/>
+
+            <!-- Высота -->
+            <Setter Property="Height" Value="35"/>
+
+            <!-- Внутренний отступ -->
+            <Setter Property="Padding" Value="8"/>
+
+            <!-- Размер текста -->
+            <Setter Property="FontSize" Value="14"/>
+
+        </Style>
+
+    </Window.Resources>
+
+    <Grid Margin="20">
+
+        <StackPanel>
+
+            <TextBlock Text="Название"
+                       Foreground="White"
+                       Margin="0,0,0,5"/>
+
+            <TextBox x:Name="nameBox"
+                     Margin="0,0,0,15"/>
+
+            <TextBlock Text="Цена"
+                       Foreground="White"
+                       Margin="0,0,0,5"/>
+
+            <TextBox x:Name="priceBox"
+                     Margin="0,0,0,15"/>
+
+            <TextBlock Text="Количество"
+                       Foreground="White"
+                       Margin="0,0,0,5"/>
+
+            <TextBox x:Name="qtyBox"
+                     Margin="0,0,0,25"/>
+
+            <Button Content="💾 Сохранить"
+                    Height="40"
+                    Background="#D4AF37"
+                    Foreground="Black"
+                    FontWeight="Bold"
+                    BorderThickness="0"
+                    Click="SaveProduct"/>
+
+        </StackPanel>
+
+    </Grid>
+</Window>

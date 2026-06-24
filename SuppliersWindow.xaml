@@ -1,0 +1,185 @@
+﻿<Window x:Class="SultanStore.SuppliersWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Поставщики"
+        Height="550"
+        Width="1100"
+        Background="#121212"
+        WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+
+        <Style TargetType="TextBox">
+            <Setter Property="Height" Value="35"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Background" Value="#1e1e1e"/>
+            <Setter Property="BorderBrush" Value="#d4af37"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Padding" Value="8"/>
+            <Setter Property="FontSize" Value="14"/>
+        </Style>
+
+        <Style TargetType="Button">
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Height" Value="35"/>
+            <Setter Property="Padding" Value="12,5"/>
+            <Setter Property="Background" Value="#d4af37"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Cursor" Value="Hand"/>
+        </Style>
+
+        <Style TargetType="DataGrid">
+            <Setter Property="Background" Value="#1e1e1e"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="GridLinesVisibility" Value="None"/>
+            <Setter Property="HeadersVisibility" Value="Column"/>
+            <Setter Property="RowHeaderWidth" Value="0"/>
+            <Setter Property="IsReadOnly" Value="True"/>
+            <Setter Property="SelectionMode" Value="Single"/>
+            <Setter Property="SelectionUnit" Value="FullRow"/>
+        </Style>
+
+        <Style TargetType="DataGridRowHeader">
+            <Setter Property="Visibility" Value="Collapsed"/>
+        </Style>
+
+        <Style TargetType="DataGridRow">
+            <Setter Property="Background" Value="#1e1e1e"/>
+            <Setter Property="Foreground" Value="White"/>
+
+            <Style.Triggers>
+                <Trigger Property="IsSelected" Value="True">
+                    <Setter Property="Background" Value="#333333"/>
+                </Trigger>
+            </Style.Triggers>
+
+        </Style>
+
+        <Style TargetType="DataGridCell">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Padding" Value="8"/>
+        </Style>
+
+        <Style TargetType="DataGridColumnHeader">
+            <Setter Property="Background" Value="#d4af37"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Height" Value="35"/>
+        </Style>
+
+    </Window.Resources>
+
+    <Grid Margin="15">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- ВЕРХ -->
+        <StackPanel Orientation="Horizontal"
+                    Grid.Row="0"
+                    Margin="0,0,0,15">
+
+            <TextBox x:Name="searchBox"
+                     Width="300"
+                     TextChanged="SearchChanged"/>
+
+            <Button Content="Добавить поставщика"
+                    Click="OpenAddWindow"/>
+
+            <Button Content="Удалить"
+                    Click="DeleteSupplier"/>
+
+            <Button Content="Оформить заказ"
+                    Click="CreateOrder"/>
+
+        </StackPanel>
+
+        <!-- НИЗ -->
+        <Grid Grid.Row="1">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="1.2*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- ТАБЛИЦА -->
+            <Border Grid.Column="0"
+                    Background="#1e1e1e"
+                    CornerRadius="15"
+                    Padding="10"
+                    Margin="0,0,10,0">
+
+                <DataGrid x:Name="gridSuppliers"
+                          AutoGenerateColumns="False">
+
+                    <DataGrid.Columns>
+
+                        <DataGridTextColumn Header="ID"
+                                            Binding="{Binding SupplierID}"
+                                            Width="60"/>
+
+                        <DataGridTextColumn Header="Название"
+                                            Binding="{Binding Name}"
+                                            Width="*"/>
+
+                        <DataGridTextColumn Header="Телефон"
+                                            Binding="{Binding Phone}"
+                                            Width="170"/>
+
+                        <DataGridTextColumn Header="Email"
+                                            Binding="{Binding Email}"
+                                            Width="220"/>
+
+                        <DataGridTextColumn Header="Адрес"
+                                            Binding="{Binding Address}"
+                                            Width="160"/>
+
+                    </DataGrid.Columns>
+
+                </DataGrid>
+
+            </Border>
+
+            <!-- ПРАВАЯ ПАНЕЛЬ -->
+            <Border Grid.Column="1"
+                    Background="#1e1e1e"
+                    CornerRadius="15"
+                    Padding="20">
+
+                <StackPanel VerticalAlignment="Center"
+                            HorizontalAlignment="Center">
+
+                    <Image Source="logo.png"
+                           Width="220"
+                           Height="220"
+                           Stretch="Uniform"
+                           Margin="0,0,0,20"/>
+
+                    <TextBlock Text="SULTAN"
+                               Foreground="#d4af37"
+                               FontSize="32"
+                               FontWeight="Bold"
+                               HorizontalAlignment="Center"/>
+
+                    <TextBlock Text="Управление поставщиками"
+                               Foreground="White"
+                               FontSize="16"
+                               Margin="0,10,0,0"
+                               HorizontalAlignment="Center"/>
+
+                </StackPanel>
+
+            </Border>
+
+        </Grid>
+
+    </Grid>
+
+</Window>

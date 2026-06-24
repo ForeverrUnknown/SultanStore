@@ -1,0 +1,86 @@
+﻿<Window x:Class="SultanStore.AddSupplierWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Добавить поставщика"
+        Height="499"
+        Width="748"
+        Background="#121212"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize">
+
+    <Window.Resources>
+
+        <!-- TextBox -->
+        <Style TargetType="TextBox">
+            <Setter Property="Height" Value="34"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Background" Value="#1e1e1e"/>
+            <Setter Property="BorderBrush" Value="#d4af37"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Padding" Value="8"/>
+            <Setter Property="FontSize" Value="14"/>
+        </Style>
+
+        <!-- Text -->
+        <Style TargetType="TextBlock">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Margin" Value="0,0,0,5"/>
+        </Style>
+
+        <!-- Button -->
+        <Style TargetType="Button">
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="Background" Value="#d4af37"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Cursor" Value="Hand"/>
+        </Style>
+
+    </Window.Resources>
+
+    <Border Margin="15"
+            Background="#1e1e1e"
+            CornerRadius="15"
+            Padding="20">
+
+        <StackPanel>
+
+            <!-- Заголовок -->
+            <TextBlock Text="Новый поставщик"
+                       FontSize="26"
+                       FontWeight="Bold"
+                       Foreground="#d4af37"
+                       Margin="0,0,0,20"/>
+
+            <!-- Название -->
+            <TextBlock Text="Название"/>
+            <TextBox x:Name="nameBox"
+                     Margin="0,0,0,15"/>
+
+            <!-- Телефон -->
+            <TextBlock Text="Телефон"/>
+            <TextBox x:Name="phoneBox"
+                     Margin="0,0,0,15"/>
+
+            <!-- Email -->
+            <TextBlock Text="Email"/>
+            <TextBox x:Name="emailBox"
+                     Margin="0,0,0,15"/>
+
+            <!-- Адрес -->
+            <TextBlock Text="Адрес"/>
+            <TextBox x:Name="addressBox"
+                     Margin="0,0,0,25"/>
+
+            <!-- Кнопка -->
+            <Button Content="💾 Сохранить"
+                    Click="SaveSupplier"/>
+
+        </StackPanel>
+
+    </Border>
+
+</Window>
